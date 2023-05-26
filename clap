@@ -1,5 +1,9 @@
 #!/bin/bash
 
+ # This script is derived from the work of daweedm <m@daweed.be>.
+ # Original code: https://github.com/daweedm/bash-clap
+ # Licensed under the GNU General Public License v3.0
+
 detection_percentage_start="7.5%"
 detection_percentage_end="7.5%"
 clap_amplitude_threshold="0.7"
